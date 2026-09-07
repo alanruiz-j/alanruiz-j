@@ -1,5 +1,4 @@
-```markdown
-# Alan Ruiz
+# Alan Ruiz Juarez
 
 Computer Systems Engineering student at Tecnológico de Toluca, building a practical foundation in Python, SQL/PostgreSQL, relational data modeling, Java, Linux, and Git/GitHub.
 
@@ -34,6 +33,5 @@ My current direction is Python backend development and a gradual progression tow
 
 ## Contact
 
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your email]
-```
+- LinkedIn: www.linkedin.com/in/alanruiz-j
+- Email: alanruiz0703@gmail.comf
